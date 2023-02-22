@@ -1,4 +1,4 @@
 # TFC on Vector Spaces
-This repository contains examples of TFC applied on vector spaces. The repository accompanys this article on arXiv (link incoming, check back soon). Please read that article for more details. 
+This repository contains examples of TFC applied on vector spaces. The repository accompanys [this note](https://arxiv.org/abs/2302.10223) on arXiv; please see the note for more details.
 
-The main TFC repository is located [here](https://github.com/leakec/tfc).
+If you are interested in TFC in general, the main TFC repository is located [here](https://github.com/leakec/tfc).
